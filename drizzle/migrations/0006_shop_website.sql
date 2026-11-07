@@ -1,0 +1,1 @@
+ALTER TABLE public.shops ADD COLUMN IF NOT EXISTS website text NOT NULL DEFAULT '';
