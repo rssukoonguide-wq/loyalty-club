@@ -1,0 +1,4 @@
+- [x] Create owner-scoped shops and separate customer/stamp records, preserving existing data.
+- [x] Show owner-only shop setup and printable unique QR in Profile.
+- [x] Keep customer navigation and stamps tied to the scanned shop.
+- [x] Test shop isolation, QR destinations, and owner/customer flows.
