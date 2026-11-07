@@ -1,0 +1,1 @@
+ALTER TABLE public.shops ADD COLUMN IF NOT EXISTS card_size integer NOT NULL DEFAULT 10 CHECK (card_size BETWEEN 3 AND 30);
